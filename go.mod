@@ -3,11 +3,11 @@ module sigs.k8s.io/krew
 go 1.27.0
 
 require (
-	github.com/fatih/color v1.18.0
+	github.com/fatih/color v1.19.0
 	github.com/git-lfs/go-netrc v0.0.0-20250218165306-ba0029b43d11
 	github.com/google/go-cmp v0.7.0
-	github.com/mattn/go-isatty v0.0.20
-	github.com/sahilm/fuzzy v0.1.1
+	github.com/mattn/go-isatty v0.0.24
+	github.com/sahilm/fuzzy v0.1.3
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/pflag v1.0.10
 	k8s.io/apimachinery v0.34.1
@@ -21,8 +21,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/kylelemons/godebug v1.1.0 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
 	github.com/x448/float16 v0.8.4 // indirect
